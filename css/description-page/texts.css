@@ -1,0 +1,58 @@
+.description1,
+.description2,
+.description3,
+.description4,
+.description5 {
+    position: relative;
+    padding: 0;
+    margin: 0 30px;
+}
+
+.description1 p {
+    position: absolute;
+    margin: 0;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+}
+
+.description2 p,
+.description3 p,
+.description4 p,
+.description5 p {
+    position: absolute;
+    margin: 0;
+    width: 40%;
+    height: 30%;
+    text-align: center;
+}
+
+.text1 {
+    top: 35%;
+    left: 4%;
+}
+
+.text2 {
+    bottom: 25%;
+    right: 4%;
+}
+
+.text3 {
+    bottom: 36%;
+    left: 4%;
+}
+
+.text4 {
+    bottom: 25%;
+    right: 14%;
+}
+
+.text5 {
+    top: 44%;
+    right: 18%;
+}
+
+.text6 {
+    top: 44%;
+    left: 18%;
+}
