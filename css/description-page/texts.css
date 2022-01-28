@@ -3,12 +3,14 @@
 .description3,
 .description4,
 .description5 {
+    font-family: "Manrope", sans-serif;
     position: relative;
     padding: 0;
     margin: 0 30px;
 }
 
 .description1 p {
+    font-family: "Manrope", sans-serif;
     position: absolute;
     margin: 0;
     width: 25%;
@@ -20,6 +22,7 @@
 .description3 p,
 .description4 p,
 .description5 p {
+    font-family: "Manrope", sans-serif;
     position: absolute;
     margin: 0;
     width: 40%;
