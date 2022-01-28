@@ -102,6 +102,7 @@ h1 span {
     justify-content: flex-start;
     align-items: center;
     padding: 50px 10vw;
+    gap: 80px;
 }
 
 .pin-wrap > * {
