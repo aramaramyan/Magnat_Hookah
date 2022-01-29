@@ -23,6 +23,8 @@ ru.addEventListener("change", () => {
   text6.textContent = "Через шахту, имеющую дизайн радиатора, проходит пищевая нержавеющая трубка.";
   text7.textContent = "Теперь Вы знаете всё о кальянах MAGNAT, можем перейти к покупкам.";
   description.textContent = "Кальяны \"Магнат\"- это  индивидуальные инновации совмещённые с уникальным дизайном. Главным и редким преимуществом кальянов \"Магнат\" благодаря которому мы отличаемся от всех кальянов этой ценовой категории - это плавно вращающаяся на 360 градусов основание, при котором шахта с блюдцей  и колба остаются неподвижными. Этот способ позволяет более удобным способом передать шланг партнёру, избегая раскачивание кальяна, при котором в большинстве случаев курильщики роняют угли."
+
+  window.localStorage.setItem("language", "ru");
 });
 
 en.addEventListener("change", () => {
@@ -35,5 +37,6 @@ en.addEventListener("change", () => {
   text6.textContent = "A stainless tube passes through the shaft made of radiator design";
   text7.textContent = "Now you know everything about MAGNAT hookahs, we can move on to shopping.";
   description.textContent = "Hookahs \"Magnat\" are individual innovations combined with a unique design. The main and rare advantage of \"Magnat\" hookahs, thanks to which we differ from all hookahs of this price category, is a base that rotates smoothly 360 degrees, in which the shaft with a saucer and the flask remain motionless. This method allows you to pass the hose to your partner in a more convenient way, avoiding the rocking of the hookah, in which in most cases smokers drop the coals."
-});
 
+  window.localStorage.setItem("language", "en");
+});
