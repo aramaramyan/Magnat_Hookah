@@ -1,7 +1,7 @@
-.language-switcher_main,
-.language-switcher_main input:checked + label,
-.language-switcher_main input:checked + label span,
-.language-switcher_main .worm__segment:before {
+.language-switcher_description,
+.language-switcher_description input:checked + label,
+.language-switcher_description input:checked + label span,
+.language-switcher_description .worm__segment:before {
     color: #e3e4e8;
 }
 
