@@ -1,6 +1,8 @@
 ![](img/1.jpeg)
 
-#MAGNAT Hookah
+# MAGNAT Hookah
+#### - Hookah as a new status symbol. -
+
 ___
 
 ### EN
